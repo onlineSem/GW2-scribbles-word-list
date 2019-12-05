@@ -32,7 +32,7 @@ Please follow the project tree:
 |	|   ├── Abilities and actions
 |	|   ├── Miscellaneous
 |   ├── Custom
-|	|   ├── YourGuildName
+|	|   ├── TAG - YourGuildName
 ```
 **Note:** I know that difficulty depends on the point of view, but keep in mind that some stuff are really hard to guess and draw: a spider vs Vlast, Lion's Arch vs Orr's magician tower. 
 
