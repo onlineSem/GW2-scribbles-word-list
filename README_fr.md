@@ -9,8 +9,26 @@ J'ai d'abord essayé d'écrire une liste pour ce [site que permet d'utiliser des
 ![Vive le dessin à la souris.](misc/glenna.png)
 
 ## Tutoriels 
+
+### Comment utiliser
+Copier/coller simplement les catégories que vous voulez utiliser dans le site de pictionary. Je conseille _skribbl.io_ mais celui-ci permet de jouer jusqu'à 12 joueurs.  
+#### Sur _skribbl.io_
+* Créer une partie privée
+* Dans la zone de texte, coller simplement les mots à utiliser
+* Ne pas oublier de cocher la case "Only use custom words"
+
 ### Comment participer
-En ligne, vous pouvez directement éditer les fichers avec vos mots. Ça créera une requête que j'analyserai à la main et ajouterai si le contenu me semble correct.
+En ligne, vous pouvez directement éditer les fichers avec vos mots. Ça créera une requête que j'analyserai à la main et l'ajouterai si le contenu me semble correct.
+
+Chaque mot doit être séparé du reste avec une virgule. Les retours charriot ne sont pas pris en compte mais je conseille d'en faire un peu afin d'avoir des fichiers plus lisibles.
+
+Exemple: 
+```
+sylvari,norn,charr,humain,asura,
+kodan,krait,skritt,
+```
+
+
 Merci d'utiliser la bonne branche :
 ![develop](misc/branch.PNG)
 
@@ -40,9 +58,6 @@ Soyez vigilants, en utilisant les mots qui contiennent un caractère `'`,  ils n
                                 mot: Élémentaire d'air
 comment il s'affichera dans skribbl: Élémentaire dair
 ```
-
-### Comment utiliser
-Copier/coller les parties que vous voulez utiliser dans le site de pictionary. Je conseille _skribbl.io_ but celui-ci permet de jouer jusqu'à 12 joueurs.  
 
 ## Traduction 
 Il n'y a pas de dossier pour votre langage ? N'hésitez pas à demander sa création !
