@@ -14,7 +14,7 @@ I tried at first to create a list for [this online pictionary that allows custom
 ### How to participate
 Online: Edit the files with your words, this will create a request. I'll analyze this request and add it if the content is correct.
 Please use the correct branch :
-![develop](misc/develop.png)
+![develop](misc/branch.PNG)
 
 Please follow the project tree: 
 ```BASH

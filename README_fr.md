@@ -12,7 +12,7 @@ J'ai d'abord essayé d'écrire une liste pour ce [site que permet d'utiliser des
 ### Comment participer
 En ligne, vous pouvez directement éditer les fichers avec vos mots. Ça créera une requête que j'analyserai à la main et ajouterai si le contenu me semble correct.
 Merci d'utiliser la bonne branche :
-![develop](misc/develop.png)
+![develop](misc/branch.PNG)
 
 Merci de respecter l'arborescence :
 ```BASH
