@@ -38,13 +38,13 @@ Please follow the project tree:
 ```BASH
 ├── [Language]
 |   ├── Regular
-|   |   ├── NPC
+|   |   ├── Alive stuff
 |	|   ├── Places
 |	|   ├── Objects
 |	|   ├── Abilities and actions
 |	|   ├── Miscellaneous
 |   ├── Expert
-|   |   ├── NPC
+|   |   ├── Alive stuff
 |	|   ├── Places
 |	|   ├── Objects
 |	|   ├── Abilities and actions

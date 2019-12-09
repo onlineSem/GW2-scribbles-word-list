@@ -36,13 +36,13 @@ Merci de respecter l'arborescence :
 ```BASH
 ├── [Langue]
 |   ├── Normal
-|   |   ├── PNJ
+|   |   ├── Êtres vivants
 |	|   ├── Endroits
 |	|   ├── Objets
 |	|   ├── Compétences et actions
 |	|   ├── Divers
 |   ├── Expert
-|   |   ├── PNJ
+|   |   ├── Êtres vivants
 |	|   ├── Endroits
 |	|   ├── Objets
 |	|   ├── Compétences et actions
