@@ -1,0 +1,7 @@
+tyrie,cantha,maguuma,cimefroides,
+rata sum,arche du lion,le bosquet,citadelle noire,promontoire divin,hoelbrak,
+noirfaucon,ascalon,île de la griffe,shaemoor,
+Metrica,Caledon,Kessex,Lornar,Gendarran,Diessa,Ashford,Elon,Vabbi,Jahai,Kourna,Mont Draconis,
+thaumanova,
+tonnelle du crépuscule,
+Super Adventure Box,

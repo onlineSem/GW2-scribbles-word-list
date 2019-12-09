@@ -11,8 +11,26 @@ I tried at first to create a list for [this online pictionary that allows custom
 ![Mouse art, best art.](misc/glenna.png)
 
 ## Hows 
-### How to participate
+
+### How to use
+Copy/paste the part you want to use into your pictionary client, I told you about _skribbl.io_ but this one allows online up to 12 players. 
+#### On _skribbl.io_
+* Create a private game
+* In the text area, simply paste the words you wanna use. 
+* Don't forget to check "Only use custom words"
+
+### How to contribute
 Online: Edit the files with your words, this will create a request. I'll analyze this request and add it if the content is correct.
+
+Each word should be separated from the others with a comma. Carriage returns are not taken into account but I recommend doing some in order to have a better looking file. 
+
+Example: 
+```
+sylvari,norn,charr,human,asura,
+kodan,krait,skritt,
+```
+
+
 Please use the correct branch :
 ![develop](misc/branch.PNG)
 
@@ -20,13 +38,13 @@ Please follow the project tree:
 ```BASH
 ├── [Language]
 |   ├── Regular
-|   |   ├── NPC
+|   |   ├── Alive stuff
 |	|   ├── Places
 |	|   ├── Objects
 |	|   ├── Abilities and actions
 |	|   ├── Miscellaneous
 |   ├── Expert
-|   |   ├── NPC
+|   |   ├── Alive stuff
 |	|   ├── Places
 |	|   ├── Objects
 |	|   ├── Abilities and actions
@@ -41,10 +59,7 @@ Be careful with words using `'` character, it won't work in _skribbl.io_ (maybe 
 ```
                      word: Lion's Arch
 how it appears in skribbl: Lions Arch
-```
-
-### How to use
-Copy/paste the part you want to use into your pictionary client, I told you about _skribbl.io_ but this one allows online up to 12 players.  
+``` 
 
 ## Translations 
 There is not yet a folder for your language in the project? Don't hesitate to ask for it! 

@@ -1,0 +1,6 @@
+scaraboule,griffon,dracaille,chacal,raptor,frappesol,voldécume,razziafelis,
+moa,araignée,tigre,corbeau,chouette,ours,panthère des neiges,drake,
+élémentaire de feu,élémentaire d air,élémentaire de terre,
+limon,warg,
+chien-abeille,
+dragon,
