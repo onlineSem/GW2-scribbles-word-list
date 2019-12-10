@@ -1,4 +1,4 @@
-# Pictionary word list for Guild Wars 2
+# Scribbles word list for Guild Wars 2
 _A project for fun guild evenings._
 
 <img src="misc/fractal_boss.PNG" width="200" alt="Great fun, as you can see." /><img src="misc/glenna.png" width="200" alt="Mouse art, best art." /><img src="misc/beetle.png" width="200" alt="Oh god, it was tough to find out this thing was a beetle." />
@@ -7,7 +7,7 @@ _A project for fun guild evenings._
 
 My love for classics and my GW2 guild planted the seed of a fun idea:  **Guild Wars 2-themed Pictionaries**!
 
-I tried at first to create a list for [this online pictionary that allows custom lists](skribbl.io) but after a few games, we noticed that my list was not so long and that we were doing the same words again and again. Then, we thought, other guilds might be interested, right? What about sharing this project with other GW2 players from all over the world? 
+I tried at first to create a list for [this online pictionary client that allows custom lists](skribbl.io) but after a few games, we noticed that my list was not so long and that we were doing the same words again and again. Then, we thought, other guilds might be interested, right? What about sharing this project with other GW2 players from all over the world? 
 
 * [How to use](#how-to-use) 
 * [How to contribute](#how-to-contribute)
