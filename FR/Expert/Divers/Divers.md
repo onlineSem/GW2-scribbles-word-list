@@ -1,0 +1,1 @@
+pack,pré-stack,overheal,boon,dps,tank,handkite,blackkite,backwarg,soigneur,kite,
