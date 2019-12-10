@@ -1,0 +1,1 @@
+compétence,enchevêtrement,venin de basilic,gyrocoptère,coup de tête,glyphe des étoiles,

@@ -1,0 +1,6 @@
+clé,coffre du lion noir,gemmes,or,teinture,
+cuir,tissu,minerai,
+dague,espadon,arc long,arc court,trident,sceptre,focus,fusil,pistolet,torche,bouclier,épée,bâton,
+anneau,amulette,colifichet,
+haume,masque,épaulières,gants,manteau,harnois,haut,bas,chausses,pantalon,bottes,chaussures,
+objet de dos,
