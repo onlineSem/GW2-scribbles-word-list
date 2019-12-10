@@ -72,4 +72,5 @@ There is not yet a folder for your language in the project? Don't hesitate to as
 
 ## Release notes
 
-_Project is still incubating._
+#### 0.2
+French words are released. English words are coming shortly. 

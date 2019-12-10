@@ -72,4 +72,5 @@ Il n'y a pas de dossier pour votre langage ? N'hésitez pas à demander sa créa
 
 ## Notes de mise à jour
 
-_Projet encore en cours d'incubation_
+#### 0.2
+Initialisation du projet avec la liste originelle française. 
