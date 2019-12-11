@@ -1,0 +1,5 @@
+commander,
+asura,sylvari,human,charr,norn,
+ranger,engineer,thief,mesmer,necromancer,elementalist,warrior,guardian,revenant,
+druid,daredevil,scrapper,chronomancer,reaper,tempest,berserker,dragonhunter,herald,soulbeast,deadeye,holosmith,weaver,mirage,scourge,firebrand,spellbreaker,renegade,
+chef,jewler,scribe,artificer,,weaponsmith,huntsman,tailor,leatherworker,armorsmith,

@@ -1,4 +1,4 @@
-# Liste mots pour un Pictionary Guild Wars 2
+# Liste de mots pour un jeu de dessins sur le thème de Guild Wars 2
 _Un project pour des soirées de guildes amusantes._
 
 <img src="misc/fractal_boss.PNG" width="200" alt="On se marre." /><img src="misc/glenna.png" width="200" alt="Vive le dessin à la souris." /><img src="misc/beetle.png" width="200" alt="Oh, c'était si dur de deviner que cette chose était un scaraboule." />
