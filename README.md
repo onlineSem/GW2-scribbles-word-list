@@ -45,18 +45,18 @@ Please follow the project tree:
 ├── [Language]
 |   ├── Regular
 |   |   ├── Alive stuff
-|	|   ├── Places
-|	|   ├── Objects
-|	|   ├── Abilities and actions
-|	|   ├── Miscellaneous
+|   |   ├── Places
+|   |   ├── Objects
+|   |   ├── Abilities and actions
+|   |   ├── Miscellaneous
 |   ├── Expert
 |   |   ├── Alive stuff
-|	|   ├── Places
-|	|   ├── Objects
-|	|   ├── Abilities and actions
-|	|   ├── Miscellaneous
+|   |   ├── Places
+|   |   ├── Objects
+|   |   ├── Abilities and actions
+|   |   ├── Miscellaneous
 |   ├── Custom
-|	|   ├── TAG - YourGuildName
+|   |   ├── TAG - YourGuildName
 ```
 **Note:** I know that difficulty depends on the point of view, but keep in mind that some stuff are really hard to guess and draw: a spider vs Vlast, Lion's Arch vs Orr's magician tower. 
 
