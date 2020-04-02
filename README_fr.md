@@ -45,18 +45,18 @@ Merci de respecter l'arborescence :
 ├── [Langue]
 |   ├── Normal
 |   |   ├── Êtres vivants
-|	|   ├── Endroits
-|	|   ├── Objets
-|	|   ├── Compétences et actions
-|	|   ├── Divers
+|   |   ├── Endroits
+|   |   ├── Objets
+|   |   ├── Compétences et actions
+|   |   ├── Divers
 |   ├── Expert
 |   |   ├── Êtres vivants
-|	|   ├── Endroits
-|	|   ├── Objets
-|	|   ├── Compétences et actions
-|	|   ├── Divers
+|   |   ├── Endroits
+|   |   ├── Objets
+|   |   ├── Compétences et actions
+|   |   ├── Divers
 |   ├── Custom
-|	|   ├── TAG - VotreNomDeGuilde
+|   |   ├── TAG - VotreNomDeGuilde
 ```
 **Note:** Je sais que la difficulté dépend du point de vue, mais gardez en tête que certains mots sont vraiment durs à deviner et à dessiner: par exemple une araignée contre Vlast, l'Arche du Lion contre la tour du magicien à Orr. 
 

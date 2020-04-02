@@ -1,0 +1,6 @@
+key,black lion chest,gems,gold,
+clé,coffre du lion noir,gemmes,or,teinture,dye,
+leather,jute scrap,ore,
+dagger,greatsword,longbow,shortbow,trident,scepter,focus,rifle,pistol,torch,shield,sword,staff,
+trinket,ring,amulet,
+helm,shoulders,coat,gloves,leggings,boots,back item,
